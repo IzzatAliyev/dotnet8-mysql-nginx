@@ -1,6 +1,6 @@
 # Dotnet + Mysql + Nginx
-### run with docker 
-simple type 
-```
-docker-compose up -d
-```
+***Run with docker***
+
+Simple type 
+
+> docker-compose up -d
